@@ -1,7 +1,7 @@
 - git:
     local-name: src/ydlidar_ros
-    uri: https://github.com/YDLIDAR/ydlidar_ros_driver.git
-    version: bdaad953525fec7a4e67fe83aa19badca8ea9b63
+    uri: https://github.com/willRicard/ydlidar_ros_driver.git
+    version: 48a9c78c53d06ace249e0b4fd7b32b5ccfbcfa01 
 - git:
     local-name: src/ros_astra_camera
     uri: https://github.com/orbbec/ros_astra_camera
